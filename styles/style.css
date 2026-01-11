@@ -252,7 +252,7 @@
 
 .person_name_burbidge {
   position: absolute;
-  left: 555px;
+  right: 125px;
   top: 96px;
 }
 
@@ -271,7 +271,7 @@
 .person_name_tarter {
   position: absolute;
   left: 159px;
-  top: 82px;
+  top: 79px;
 }
 
 .person__image {
