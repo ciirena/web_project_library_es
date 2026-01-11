@@ -246,14 +246,14 @@
 
 .person_name_feynman {
   position: absolute;
-  right: 319px;
+  left: 319px;
   top: -30px;
 }
 
 .person_name_burbidge {
   position: absolute;
-  right: 125px;
-  bottom: 390px;
+  left: 555px;
+  top: 96px;
 }
 
 .person_name_cannon {
